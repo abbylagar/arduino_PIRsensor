@@ -1,2 +1,2 @@
 # arduino_PIRsensor
-integration of PIR sensor in the arduino
+integration of PIR and smoke sensor in the arduino
